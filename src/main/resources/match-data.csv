@@ -1,4 +1,4 @@
-Season,Pos,Team,Pld,W,D,L,GF,GA,GD,Pts,Qualification or relegation
+season,pos,team,pld,win,draw,lost,gf,ga,gd,pts,qualification_or_relegation
 2000-01,1,Manchester United,38,24,8,6,79,31,48,80,Qualification for the Champions League first group stage
 2000-01,2,Arsenal,38,20,10,8,63,38,25,70,Qualification for the Champions League first group stage
 2000-01,3,Liverpool,38,20,9,9,71,39,32,69,Qualification for the Champions League third qualifying round[a]
